@@ -15,7 +15,7 @@ Kore revolutionizes the way organizations leverage artificial intelligence by pr
 - **Scalable Automation:** Enjoy a flexible automation infrastructure designed to grow with your business, streamlining processes while reducing operational overhead.
 - **Granular Control:** Benefit from detailed customization options that allow precise tuning of AI functionalities to meet specific organizational needs.
 
-![Digital Dashboard Illustration](../public/images/ai-innovation-hub.png)
+![Digital Dashboard Illustration](/public/images/ai-innovation-hub.png)
 
 <!-- 
 Speaker Notes:

@@ -21,6 +21,9 @@ Legacy systems often hold critical yet outdated business logic and infrastructur
 - **Strategic Conversion:**  
   Methodical approach to converting legacy code into streamlined, modern frameworks and architectures.
 
+![Legacy Modernization Visual](/public/images/legacy-modernization.png)
+
+
 <!-- 
 Speaker Notes:
 In this slide, we focus on the transformation of legacy systems. The content emphasizes:
@@ -32,4 +35,3 @@ In this slide, we focus on the transformation of legacy systems. The content emp
 The visual below contrasts outdated code snippets with modern, clean code examples to demonstrate the transformative power of Kore's approach. This contrast helps illustrate the benefits and challenges involved in modernizing legacy systems.
 -->
 
-![Legacy Modernization Visual](../public/images/legacy-modernization.png)

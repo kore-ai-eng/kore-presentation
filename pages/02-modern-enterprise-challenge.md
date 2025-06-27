@@ -17,7 +17,7 @@ transition: slide-left
 </div>
 
 <div class="col right">
-<img src="../public/images/enterprise-challenge.png" alt="Enterprise Challenge Infographic" style="max-width: 100%;" />
+<img src="/public/images/enterprise-challenge.png" alt="Enterprise Challenge Infographic" style="max-width: 100%;" />
 </div>
 
 </div>

@@ -11,7 +11,7 @@ class: text-center
 Welcome to the next generation of collaborative intelligence. Kore harnesses advanced AI to transform teamwork, spark creativity, and drive innovation across all areas of your organization. Experience a futuristic digital ecosystem where dynamic data flows seamlessly, empowering every decision and accelerating progress.
 
 <v-motion :initial="{ opacity: 0, x: -50 }" :enter="{ opacity: 1, x: 0, transition: { duration: 0.8 } }">
-  <img src="../public/images/kore-future.png" alt="Futuristic Digital Illustration with Kore Logo" style="max-width: 80%; margin: auto;">
+  <img src="/public/images/kore-future.png" alt="Futuristic Digital Illustration with Kore Logo" style="max-width: 80%; margin: auto;">
 </v-motion>
 
 <!-- 

@@ -17,7 +17,7 @@ Our vision for Kore is built on four key pillars:
 
 Below is a dynamic roadmap illustration that highlights our strategic milestones:
 
-![Kore Roadmap](../public/images/kore-roadmap.png)
+![Kore Roadmap](/public/images/kore-roadmap.png)
 
 ```mermaid
 flowchart LR

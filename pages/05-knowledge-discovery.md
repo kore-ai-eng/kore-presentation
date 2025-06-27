@@ -14,7 +14,7 @@ Unlock hidden intelligence from your organization's data by leveraging modern da
 - Utilize natural language questioning for intuitive, conversational data queries.
 - Enable cross-document synthesis to merge fragmented information into a centralized hub.
 
-![Knowledge Discovery Illustration](../public/images/knowledge-discovery.png)
+![Knowledge Discovery Illustration](/public/images/knowledge-discovery.png)
 
 <!-- 
 Speaker Notes:

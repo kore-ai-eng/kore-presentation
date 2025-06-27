@@ -27,7 +27,7 @@ Visual Transformation:
   
 Experience the journey as raw code evolves into polished, professional documentation showcased in the transformation graphic below.
 
-![Effortless Documentation Transformation](../public/images/effortless-documentation.png)
+![Effortless Documentation Transformation](/public/images/effortless-documentation.png)
 
 <!--
 Speaker Notes:

@@ -19,7 +19,7 @@ Kore's Intelligent Core is the powerhouse behind our innovation, integrating adv
   Implements state-of-the-art security protocols and encryption methods to manage sensitive information. This safeguards personal data and complies with stringent data protection regulations.
 
 <div v-click style="margin-top:20px;">
-  <img src="../public/images/intelligent-core.svg" alt="Intelligent Core Visual" style="max-width:70%;" />
+  <img src="/public/images/intelligent-core.svg" alt="Intelligent Core Visual" style="max-width:70%;" />
 </div>
 
 <!-- 
