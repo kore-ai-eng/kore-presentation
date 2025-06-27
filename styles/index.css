@@ -1,0 +1,58 @@
+/* Global styles for the presentation.
+   The @slidev/theme-default (usually based on Inter font) provides a good base,
+   so these styles focus on specific enhancements and thematic requirements.
+*/
+
+/* General utility class for improving text readability on background images */
+.text-on-image {
+  color: white; /* Default to white text for dark or complex backgrounds */
+  /* A balanced text shadow for clarity and depth */
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.5), 0px 2px 3px rgba(0, 0, 0, 0.4), 0px 4px 7px rgba(0, 0, 0, 0.3);
+}
+
+/* Utility class for text blocks that need a subtle background for better contrast */
+.text-block-on-image {
+  background-color: rgba(0, 0, 0, 0.45); /* Semi-transparent dark background */
+  padding: 0.5em 0.8em; /* Padding around the text */
+  border-radius: 6px; /* Softly rounded corners */
+  color: white; /* Ensure text is light on this background */
+  display: inline-block; /* Make the background fit the content */
+  max-width: 90%; /* Prevent the block from becoming too wide on large screens */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); /* Subtle shadow for added polish */
+}
+
+/* Specific font treatment classes as per project requirements */
+
+/* Font for a "sharp" and "angular" look */
+.font-sharp-angular {
+  font-family: "Impact", "Arial Black", "Franklin Gothic Bold", sans-serif;
+  text-transform: uppercase; /* Uppercase enhances the angular look */
+  letter-spacing: 0.075em; /* Slightly increased letter spacing for impact */
+  text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.3); /* Subtle, sharp shadow to enhance definition */
+}
+
+/* Font treatment for an ethereal, timeless quality */
+.font-glowing-ethereal {
+  font-family: "Georgia", "Times New Roman", serif;
+  color: #E6E6FA; /* Lavender tone for a mystical effect */
+  /* Layered text-shadow for a soft, multi-toned glow effect */
+  text-shadow:
+    0 0 5px rgba(230, 230, 250, 0.95),  /* Base glow - Lavender */
+    0 0 8px rgba(200, 200, 255, 0.8),   /* Slightly wider lavender/light blue glow */
+    0 0 12px rgba(173, 216, 230, 0.6),  /* Mid glow - Light Blue */
+    0 0 18px rgba(173, 216, 230, 0.4),  /* Outer glow - Light Blue */
+    0 0 25px rgba(75, 0, 130, 0.25);    /* Subtle hint of Indigo for depth and mystery */
+}
+
+/* Font treatment for a classic, elegant appearance */
+.font-regal {
+  font-family: "Garamond", "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-weight: 600; /* Semi-bold for a distinguished look */
+  letter-spacing: 0.04em; /* Increased letter spacing for readability and elegance */
+  color: #B8860B; /* DarkGoldenRod tone for a regal feel */
+}
+
+/* Utility class to enforce strong bold emphasis */
+.font-bold {
+  font-weight: 700 !important;
+}
