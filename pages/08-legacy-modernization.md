@@ -21,7 +21,7 @@ Legacy systems often hold critical yet outdated business logic and infrastructur
 - **Strategic Conversion:**  
   Methodical approach to converting legacy code into streamlined, modern frameworks and architectures.
 
-![Legacy Modernization Visual](/public/images/legacy-modernization.png)
+![Legacy Modernization Visual](/static/images/legacy-modernization.png)
 
 
 <!-- 

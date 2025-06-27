@@ -15,7 +15,7 @@ Website: [www.kore.ai](https://www.kore.ai)
 
 Scan the QR code below to visit our website and join the conversation:
 
-<img src="/public/images/call-to-action.png" alt="Call to Action QR Code" style="max-width: 300px; margin-top: 20px;" />
+<img src="/static/images/call-to-action.png" alt="Call to Action QR Code" style="max-width: 300px; margin-top: 20px;" />
 
 <!-- 
 Speaker Notes:

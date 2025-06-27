@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Kore's Intelligent Core SVG
+  This illustration represents three core features:
+    • AI Knowledge Companion (depicted as a stylized brain icon)
+    • BYOM & Multi-Tenancy (illustrated by overlapping layers)
+    • Next-Gen Sensitive Data/PII Management (shown as a shield icon)
+-->
+<svg width="500" height="150" viewBox="0 0 500 150" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <title>Kore's Intelligent Core</title>
+  <desc>An SVG illustration with three representative icons: AI Knowledge Companion, BYOM & Multi-tenancy, and Next-gen Sensitive Data/PII Management.</desc>
+  <defs>
+    <!-- AI Knowledge Companion Icon: Represented by a stylized brain -->
+    <symbol id="ai-knowledge" viewBox="0 0 64 64">
+      <path d="M32 4C18.745 4 8 14.745 8 28s10.745 24 24 24 24-10.745 24-24S45.255 4 32 4zm0 44c-11.046 0-20-8.954-20-20S20.954 8 32 8s20 8.954 20 20-8.954 20-20 20z" fill="#4CAF50"/>
+      <circle cx="24" cy="28" r="3" fill="#fff"/>
+      <circle cx="32" cy="36" r="3" fill="#fff"/>
+      <circle cx="40" cy="28" r="3" fill="#fff"/>
+    </symbol>
+
+    <!-- BYOM & Multi-Tenancy Icon: Represented by overlapping layers -->
+    <symbol id="multi-tenancy" viewBox="0 0 64 64">
+      <rect x="8" y="12" width="40" height="20" fill="#2196F3" rx="3" ry="3"/>
+      <rect x="16" y="24" width="40" height="20" fill="#64B5F6" rx="3" ry="3" opacity="0.9"/>
+      <rect x="24" y="36" width="40" height="20" fill="#BBDEFB" rx="3" ry="3" opacity="0.8"/>
+    </symbol>
+
+    <!-- Next-Gen Sensitive Data/PII Management Icon: Depicted as a shield -->
+    <symbol id="data-security" viewBox="0 0 64 64">
+      <path d="M32 2L6 14v16c0 14.36 9.63 27.79 26 31 16.37-3.21 26-16.64 26-31V14L32 2z" fill="#FFC107"/>
+      <path d="M32 6l24 10v14c0 12.9-8.66 25-24 28-15.34-3-24-15.1-24-28V16L32 6z" fill="#FFA000"/>
+      <path d="M30 24h4v16h-4z" fill="#fff"/>
+      <circle cx="32" cy="48" r="2" fill="#fff"/>
+    </symbol>
+  </defs>
+
+  <!-- Place the three icons horizontally centered in the SVG -->
+  <use xlink:href="#ai-knowledge" x="20" y="43" width="64" height="64"/>
+  <use xlink:href="#multi-tenancy" x="218" y="43" width="64" height="64"/>
+  <use xlink:href="#data-security" x="416" y="43" width="64" height="64"/>
+
+  <!-- Captions for each icon -->
+  <text x="52" y="130" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">AI Knowledge</text>
+  <text x="250" y="130" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">Multi-tenancy</text>
+  <text x="448" y="130" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#333">Data Security</text>
+</svg>

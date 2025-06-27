@@ -25,7 +25,7 @@ flowchart TD
     E --> F[Final Review & Iteration]
 ```
 
-![Greenfield Development](/public/images/greenfield-development.png)
+![Greenfield Development](/static/images/greenfield-development.png)
 
 <!-- 
 Speaker Notes:

@@ -19,7 +19,7 @@ Transform raw data into actionable knowledge with our cutting-edge enrichment pr
 This integration transforms disparate raw inputs into a coherent and dynamic content ecosystem, empowering organizations to make informed, strategic decisions.
 
 <div v-click>
-  <img src="/public/images/data-content-enrichment.png" alt="Data Content Enrichment" width="600" />
+  <img src="/static/images/data-content-enrichment.png" alt="Data Content Enrichment" width="600" />
 </div>
 
 <!-- 

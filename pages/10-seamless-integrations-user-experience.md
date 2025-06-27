@@ -22,7 +22,7 @@ Kore delivers an optimized user interface with robust integrations that empower 
   Leverage an AI-powered chat assistant designed to streamline communication and support.
 
 <div style="text-align: center;">
-  <img src="/public/images/seamless-integrations.png" alt="Seamless Integrations Visual" style="max-width:80%;"/>
+  <img src="/static/images/seamless-integrations.png" alt="Seamless Integrations Visual" style="max-width:80%;"/>
 </div>
 
 <!--
