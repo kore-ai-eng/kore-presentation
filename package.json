@@ -11,9 +11,12 @@
     "@slidev/cli": "^51.8.0",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
-    "nodemon": "latest",
-    "vue": "^3.5.14",
     "mermaid": "latest",
-    "typescript": "latest"
+    "nodemon": "latest",
+    "typescript": "latest",
+    "vue": "^3.5.14"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.53.1"
   }
 }
